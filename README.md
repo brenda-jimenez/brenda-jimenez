@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brenda-jimenez
 - 👀 I’m interested in javascript and all web
-- 🌱 I’m currently learning docker
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ..twitter on @itreverie
 
